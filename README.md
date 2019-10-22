@@ -1,3 +1,4 @@
 # AI-Course-UET
 # P1: Search
-# P2: M
+# P2: Multi-agents
+
