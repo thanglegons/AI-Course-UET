@@ -2,6 +2,7 @@
 # P1: Search
 # P2: Multi-agents
 
+Youtube Link: https://www.youtube.com/watch?v=jB1zN38PAZU&feature=youtu.be
 ### Question 1:
 *Yêu cầu:* Tối ưu hàm ReflexAgent, một game_state có score cao hơn thì tốt hơn
 
