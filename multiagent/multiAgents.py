@@ -288,7 +288,7 @@ def betterEvaluationFunction(currentGameState):
     newScaredTimes = [ghostState.scaredTimer for ghostState in newGhostStates]
     numFoodLeft = len(newFood)
     if numFoodLeft == 0:
-      return 100000000
+      return 1000000000000000
     minFoodDist = min([dist[food] for food in newFood])
     minGhostDist = 100000000
     minGhostScared = -1

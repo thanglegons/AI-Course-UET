@@ -1,0 +1,10 @@
+classification.zip
+data.zip
+P2.mov
+classification/images/
+classification/layouts/
+classification/pacmandata/
+classification/test_cases/
+classification/.vscode
+data/
+*.pyc
